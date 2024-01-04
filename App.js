@@ -9,7 +9,7 @@ function App () {
           <Text style={{ fontFamily: 'cochin'}}> Text Two </Text>
         </View>
 
-      <View style={{ backgroundColor: 'red'}}>
+      // <View style={{ backgroundColor: 'red'}}>
         <Text style={{ fontFamily: 'cochin', fontSize: '20', fontWeight:'bold'}}> Text Three </Text>
       </View>
     </View>
