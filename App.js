@@ -5,7 +5,7 @@ function App () {
   return (
     <View style = {{ marginTop: 50, flexDirection: "column"}}>
         {/* <View style={{ backgroundColor: 'green'}}> */}
-          <Text style={{ fontFamily: 'cochin'}}> Text One </Text>
+          {/* <Text style={{ fontFamily: 'cochin'}}> Text One </Text> */}
           <Text style={{ fontFamily: 'cochin'}}> Text Two </Text>
         </View>
 
