@@ -5,7 +5,7 @@ function App () {
   return (      
   );
 }
-const styles = StyleSheet
+
 
 
 
