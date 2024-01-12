@@ -2,8 +2,15 @@
 
 
 
+import React from 'react'
 
-// export default App;
+const App = () => {
+  return (
+    <div>App</div>
+  )
+}
+
+export default App
 
 
 
