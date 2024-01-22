@@ -1,7 +1,2 @@
 
-git add .
-
-
-
-
-
+git add 'vdsfgds'
